@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\IFSP\\ED2I4\\TP-02\\TP-02.csproj",
         "projectName": "TP-02",
         "projectPath": "D:\\IFSP\\ED2I4\\TP-02\\TP-02.csproj",
-        "packagesPath": "C:\\Users\\vinicius\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\roberto\\.nuget\\packages\\",
         "outputPath": "D:\\IFSP\\ED2I4\\TP-02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
